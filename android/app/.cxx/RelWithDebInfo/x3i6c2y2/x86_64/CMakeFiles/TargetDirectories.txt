@@ -1,0 +1,2 @@
+/Users/pankajgupta/Downloads/User app and web/android/app/.cxx/RelWithDebInfo/x3i6c2y2/x86_64/CMakeFiles/edit_cache.dir
+/Users/pankajgupta/Downloads/User app and web/android/app/.cxx/RelWithDebInfo/x3i6c2y2/x86_64/CMakeFiles/rebuild_cache.dir

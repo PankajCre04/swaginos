@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "979347599110",
+    "project_id": "speedly-customer",
+    "storage_bucket": "speedly-customer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979347599110:android:7ee78e3dccfd42b4b1f887",
+        "android_client_info": {
+          "package_name": "com.Speedly.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979347599110-38upls8i6foa9atmudfgippdhiare5jg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Speedly.customer",
+            "certificate_hash": "7f0fee1e70eab2d5b9d93df2f15b094e8005e5c3"
+          }
+        },
+        {
+          "client_id": "979347599110-6dggps9476pi3jq4crbc5opq0c25bscn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Speedly.customer",
+            "certificate_hash": "200cee15419dc2dfb7e0bf447244d20353840306"
+          }
+        },
+        {
+          "client_id": "979347599110-6nbhsdv9aq2ui0gpt3i9jdurre696pn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Speedly.customer",
+            "certificate_hash": "c12fc180794d3252370ed386024694d49055a182"
+          }
+        },
+        {
+          "client_id": "979347599110-t5mgmk4auk6tqeljlfubpqqktkck69fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdKOnJAR4qUccX62CTht5fEhwdwEI8Cos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979347599110-t5mgmk4auk6tqeljlfubpqqktkck69fs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979347599110-3gkeatpgsigeo92e4idp0e87r6r0rfjd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swaginos.merchant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
